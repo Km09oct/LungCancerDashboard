@@ -1,0 +1,26 @@
+[
+  {
+    "Cancer": "Prostate(men)",
+    "UK": 87,
+    "US": 98,
+    "Netherland": 88
+  },
+  {
+    "Cancer": "Brest (women)",
+    "UK": 86,
+    "US": 90,
+    "Netherland": 88
+  },
+  {
+    "Cancer": "Colorectal (both)",
+    "UK": 59,
+    "US": 65,
+    "Netherland": 67
+  },
+  {
+    "Cancer": "Lung (both)",
+    "UK": 17,
+    "US": 19,
+    "Netherland": 21
+  }
+]
