@@ -1,0 +1,58 @@
+CancerTypeCase = [
+  {
+    "Cancer": "Brest",
+    "Cases": 2261493
+  },
+  {
+    "Cancer": "Lung",
+    "Cases": 2206412
+  },
+  {
+    "Cancer": "Colorectal",
+    "Cases": 1931590
+  },
+  {
+    "Cancer": "Prostate",
+    "Cases": 1414259
+  },
+  {
+    "Cancer": "Stomach",
+    "Cases": 1089113
+  },
+  {
+    "Cancer": "Liver",
+    "Cases": 905998
+  },
+  {
+    "Cancer": "Bladder",
+    "Cases": 573228
+  },
+  {
+    "Cancer": "Pancrease",
+    "Cases": 493226
+  },
+  {
+    "Cancer": "Leukaemia",
+    "Cases": 471995
+  },
+  {
+    "Cancer": "Kidney",
+    "Cases": 431228
+  },
+  {
+    "Cancer": "Overy",
+    "Cases": 313923
+  },
+  {
+    "Cancer": "Brain",
+    "Cases": 308102
+  },
+  {
+    "Cancer": "Testis",
+    "Cases": 74758
+  },
+  {
+    "Cancer": "Vagaina",
+    "Cases": 17908
+  }
+]

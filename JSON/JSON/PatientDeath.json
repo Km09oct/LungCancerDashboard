@@ -1,0 +1,62 @@
+[
+  {
+    "Country": "Hungary",
+    "Patient": 10274,
+    "Death": 8920,
+    "ASR/100,000": 50.1
+  },
+  {
+    "Country": "Serbia",
+    "Patient": 8048,
+    "Death": 7084,
+    "ASR/100,000": 47.3
+  },
+  {
+    "Country": "France, New Calendonia",
+    "Patient": 116,
+    "Death": 124,
+    "ASR/100,000": 42.9
+  },
+  {
+    "Country": "French Polynesia",
+    "Patient": 144,
+    "Death": 129,
+    "ASR/100,000": 40.4
+  },
+  {
+    "Country": "Turkey",
+    "Patient": 41264,
+    "Death": 37070,
+    "ASR/100,000": 40
+  },
+  {
+    "Country": "Montenegro",
+    "Patient": 443,
+    "Death": 370,
+    "ASR/100,000": 39.7
+  },
+  {
+    "Country": "Belgium",
+    "Patient": 9646,
+    "Death": 8786,
+    "ASR/100,000": 38.3
+  },
+  {
+    "Country": "Bonia and Herzegoria",
+    "Patient": 2513,
+    "Death": 2240,
+    "ASR/100,000": 37.8
+  },
+  {
+    "Country": "North Korea",
+    "Patient": 13672,
+    "Death": 12343,
+    "ASR/100,000": 37
+  },
+  {
+    "Country": "Denmark",
+    "Patient": 5047,
+    "Death": 4772,
+    "ASR/100,000": 36.8
+  }
+]
