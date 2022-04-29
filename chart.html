@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script>
+    let oneYrData = [['Cancer','UK','US', 'Netherland']];
+    let oneyr = JSON.parse(localStorage.getItem('oneYr'));
+    console.log(oneyr);
+    for (let index = 0; index < oneyr.length; index++) {
+        oneYrData.push([oneyr[index].Cancer, oneyr[index].UK, oneyr[index].US, oneyr[index].Netherland])
+    }
+</script>
+<body>
+    
+</body>
+</html>
