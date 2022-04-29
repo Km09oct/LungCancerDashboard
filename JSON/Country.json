@@ -1,7 +1,4 @@
-{ 'cols: [
-  {'label': 'Country', type: 'string', 'label': 'Number', type: 'number'}
-],
-'rows' :[
+[
   {
     "Country": "Denmark",
     "Number": 39996
@@ -155,4 +152,3 @@
     "Number": 1314030
   }
 ]
-}
