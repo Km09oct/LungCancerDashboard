@@ -1,6 +1,5 @@
 { 'cols: [
-  {'label': 'Country', type: 'string'},
-  {'label': 'Downloads', type: 'number'}
+  {'label': 'Country', type: 'string', 'label': 'Number', type: 'number'}
 ],
 'rows' :[
   {
