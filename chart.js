@@ -6,7 +6,7 @@ GeoChart1 = [
     ["France", 62399],
     ["Australia", 422828],
     ["Norway", 41182],
-    ["USA", 1756921],
+    ["US", 1756921],
     ["UK", 409228],
     ["Germany", 538140],
     ["Canada", 212719],
